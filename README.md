@@ -22,7 +22,7 @@
 
 ### **Frontend Flow (React + Tailwind)**
 1. User connects MetaMask
-2. App enforces Shardeum Testnet (Chain ID: 8119)
+2. App enforces Shardeum Testnet (Chain ID:8119)
 3. User approves MockUSDC spending to relayer address
 
 ### **Send Transaction**
